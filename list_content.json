@@ -1,0 +1,452 @@
+[
+  {
+    "id": 113,
+    "name": "Трамп",
+    "coordinates": {
+      "x": 770,
+      "y": 10
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 22,
+        "nano": 786395700
+      }
+    },
+    "realHero": true,
+    "hasToothpick": true,
+    "impactSpeed": 555.8875684271298,
+    "weaponType": "RIFLE",
+    "mood": "LONGING",
+    "car": {
+      "name": "БМВ",
+      "cool": true
+    }
+  },
+  {
+    "id": 114,
+    "name": "Рик",
+    "coordinates": {
+      "x": 713,
+      "y": 852
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 330006100
+      }
+    },
+    "realHero": false,
+    "hasToothpick": false,
+    "impactSpeed": 197.58409614400438,
+    "weaponType": "BAT",
+    "mood": "LONGING",
+    "car": {
+      "name": "Рено",
+      "cool": false
+    }
+  },
+  {
+    "id": 115,
+    "name": "Рик",
+    "coordinates": {
+      "x": 734,
+      "y": 587
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 330006100
+      }
+    },
+    "realHero": true,
+    "hasToothpick": false,
+    "impactSpeed": 60.93097124723008,
+    "weaponType": "HAMMER",
+    "mood": "LONGING",
+    "car": {
+      "name": "Пежопа",
+      "cool": true
+    }
+  },
+  {
+    "id": 116,
+    "name": "Флойд",
+    "coordinates": {
+      "x": 693,
+      "y": 627
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 330006100
+      }
+    },
+    "realHero": true,
+    "hasToothpick": true,
+    "impactSpeed": 549.4100940864597,
+    "weaponType": "RIFLE",
+    "mood": "CALM",
+    "car": {
+      "name": "Тесла",
+      "cool": false
+    }
+  },
+  {
+    "id": 117,
+    "name": "Лох",
+    "coordinates": {
+      "x": 279,
+      "y": 805
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 330006100
+      }
+    },
+    "realHero": true,
+    "hasToothpick": false,
+    "impactSpeed": 903.8359285928019,
+    "weaponType": "RIFLE",
+    "mood": "CALM",
+    "car": {
+      "name": "Собака",
+      "cool": false
+    }
+  },
+  {
+    "id": 118,
+    "name": "Егорр",
+    "coordinates": {
+      "x": 1056,
+      "y": 503
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 330006100
+      }
+    },
+    "realHero": true,
+    "hasToothpick": false,
+    "impactSpeed": 554.7002495745329,
+    "weaponType": "RIFLE",
+    "mood": "CALM",
+    "car": {
+      "name": "БМВ",
+      "cool": false
+    }
+  },
+  {
+    "id": 119,
+    "name": "Ленин",
+    "coordinates": {
+      "x": 982,
+      "y": 36
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 330006100
+      }
+    },
+    "realHero": false,
+    "hasToothpick": false,
+    "impactSpeed": 81.67827752006008,
+    "weaponType": "BAT",
+    "mood": "LONGING",
+    "car": {
+      "name": "Конь",
+      "cool": true
+    }
+  },
+  {
+    "id": 120,
+    "name": "Илиан",
+    "coordinates": {
+      "x": 1050,
+      "y": 763
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 330006100
+      }
+    },
+    "realHero": false,
+    "hasToothpick": false,
+    "impactSpeed": 614.6951941537067,
+    "weaponType": "SHOTGUN",
+    "mood": "CALM",
+    "car": {
+      "name": "Конь",
+      "cool": true
+    }
+  },
+  {
+    "id": 121,
+    "name": "Егорр",
+    "coordinates": {
+      "x": 783,
+      "y": 867
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 330006100
+      }
+    },
+    "realHero": true,
+    "hasToothpick": false,
+    "impactSpeed": 736.563476586512,
+    "weaponType": "RIFLE",
+    "mood": "CALM",
+    "car": {
+      "name": "БМВ",
+      "cool": false
+    }
+  },
+  {
+    "id": 122,
+    "name": "Собака",
+    "coordinates": {
+      "x": 695,
+      "y": 329
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 330006100
+      }
+    },
+    "realHero": true,
+    "hasToothpick": true,
+    "impactSpeed": 728.739816501236,
+    "weaponType": "BAT",
+    "mood": "SADNESS",
+    "car": {
+      "name": "Феррари",
+      "cool": true
+    }
+  },
+  {
+    "id": 123,
+    "name": "Панин",
+    "coordinates": {
+      "x": 960,
+      "y": 881
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 330006100
+      }
+    },
+    "realHero": true,
+    "hasToothpick": false,
+    "impactSpeed": 677.0853899414187,
+    "weaponType": "RIFLE",
+    "mood": "LONGING",
+    "car": {
+      "name": "Феррари",
+      "cool": false
+    }
+  },
+  {
+    "id": 124,
+    "name": "Трап",
+    "coordinates": {
+      "x": 1293,
+      "y": 379
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 330006100
+      }
+    },
+    "realHero": false,
+    "hasToothpick": true,
+    "impactSpeed": 85.85969414321004,
+    "weaponType": "SHOTGUN",
+    "mood": "LONGING",
+    "car": {
+      "name": "Собака",
+      "cool": false
+    }
+  },
+  {
+    "id": 125,
+    "name": "Путин",
+    "coordinates": {
+      "x": 558,
+      "y": 772
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 331003500
+      }
+    },
+    "realHero": true,
+    "hasToothpick": false,
+    "impactSpeed": 791.7523265140934,
+    "weaponType": "SHOTGUN",
+    "mood": "SADNESS",
+    "car": {
+      "name": "БМВ",
+      "cool": true
+    }
+  },
+  {
+    "id": 126,
+    "name": "Грудинин",
+    "coordinates": {
+      "x": 979,
+      "y": 97
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 331003500
+      }
+    },
+    "realHero": true,
+    "hasToothpick": true,
+    "impactSpeed": 235.34506332476212,
+    "weaponType": "SHOTGUN",
+    "mood": "LONGING",
+    "car": {
+      "name": "Конь",
+      "cool": true
+    }
+  },
+  {
+    "id": 127,
+    "name": "Собака",
+    "coordinates": {
+      "x": 552,
+      "y": 882
+    },
+    "creationDate": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 12
+      },
+      "time": {
+        "hour": 22,
+        "minute": 21,
+        "second": 43,
+        "nano": 331003500
+      }
+    },
+    "realHero": false,
+    "hasToothpick": false,
+    "impactSpeed": 550.7421462607693,
+    "weaponType": "RIFLE",
+    "mood": "LONGING",
+    "car": {
+      "name": "Кадилак",
+      "cool": false
+    }
+  }
+]
